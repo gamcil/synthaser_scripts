@@ -1,9 +1,11 @@
-## Scripts used in ``synthaser`` manuscript
+## Scripts used in synthaser manuscript
 
 | File | Description |
 | ---- | ----------- |
 | ``sum_bitscores.py`` | Script to sum bitscores of identical query/target sequence pairs in BLAST results. |
 | ``extract_PKS.py`` | Script to extract PKS/NRPS sequences from MIBiG GenBank/JSON files. |
+| ``mibig/*`` | synthaser output for MIBiG synthases |
+| ``ks_domains/*`` | Files generated during KS domain network construction |
 
 ## Methods
 ### Comparison to MIBiG domain architectures
@@ -17,10 +19,10 @@ Download MIBiG database GenBank and JSON dumps and extract contents:
 Retrieve all annotated PKS sequences using ``extract_PKS.py``:
 
 	python3 extract_PKS.py \
-		mibig_gbk_2.0/ \         # GenBank folder
-		mibig_json_2.0/ \        # JSON folder
-		mibig_table.tsv \        # Output, table with MIBiG metadata
-		--fasta mibig_pks.fasta  # Output, FASTA file with PKS 
+		mibig_gbk_2.0/ \               # GenBank folder
+		mibig_json_2.0/ \              # JSON folder
+		mibig_table.tsv \              # Output, table with MIBiG metadata
+		--fasta mibig_synthases.fasta  # Output, FASTA file with PKS 
 
 Setup synthaser:
 
@@ -29,12 +31,16 @@ Setup synthaser:
 Run synthaser on PKS sequences, saving HTML plot and search session:
 
 	synthaser search \
-		--query_file mibig_pks.fasta \
-		--output mibig_pks.txt \
-		--plot mibig_pks.html
+		--query_file mibig_synthases.fasta \
+		--json_file mibig_synthases.json \
+		--output mibig_predictions.txt \
+		--plot mibig.html \
+		--long_form
 
-MIBiG domain architectures were copied from the 'NRPS/PKS domains'
-tab of each MIBiG entry, and compared to the predictions in the
+The MIBiG metadata table (``mibig_table.tsv``) was then merged with
+the synthaser predictions table (``mibig_predictions.txt``). MIBiG domain
+architectures were copied from the 'NRPS/PKS domains' tab of each
+MIBiG entry, added to the table and compared to the predictions in the
 synthaser output.
 
 ### Creation of the Aspergillus KS network
