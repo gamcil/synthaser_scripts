@@ -1,0 +1,293 @@
+Organism	MIBIG	Accession	Gene	Length	Compounds	Citations
+Alternaria alternata|BGC0000003|BAD97694.1|AFT9-1|3005|AF-toxin|doi:10.1007/s10327-004-0170-3
+Aspergillus oryzae|BGC0000004|BAE71314.1|pksA|2009|aflatoxin G1|pubmed:16391082
+Aspergillus oryzae|BGC0000004|BAE71316.1|fas-2|1679|aflatoxin G1|pubmed:16391082
+Aspergillus oryzae|BGC0000004|BAE71317.1|fas-1|1888|aflatoxin G1|pubmed:16391082
+Aspergillus flavus|BGC0000006|AAS90093.1|pksA|2109|aflatoxin|pubmed:15528514
+Aspergillus flavus|BGC0000006|AAS90111.1|fas-2_hexA|1671|aflatoxin|pubmed:15528514
+Aspergillus flavus|BGC0000006|AAS90095.1||1888|aflatoxin|pubmed:15528514
+Aspergillus flavus|BGC0000007|AAS89999.1||2109|aflatoxin|pubmed:12382060, pubmed:15528514
+Aspergillus flavus|BGC0000007|AAS90001.1||1671|aflatoxin|pubmed:12382060, pubmed:15528514
+Aspergillus flavus|BGC0000007|AAS90002.1||1889|aflatoxin|pubmed:12382060, pubmed:15528514
+Aspergillus flavus|BGC0000008|AAS90022.1||2109|aflatoxin|pubmed:15528514
+Aspergillus flavus|BGC0000008|AAS90024.1||1671|aflatoxin|pubmed:15528514
+Aspergillus flavus|BGC0000008|AAS90025.1||1888|aflatoxin|pubmed:15528514
+Aspergillus nomius|BGC0000009|AAS90047.1||2100|aflatoxin|pubmed:15528514
+Aspergillus nomius|BGC0000009|AAS90049.1||1673|aflatoxin|pubmed:15528514
+Aspergillus nomius|BGC0000009|AAS90050.1||1889|aflatoxin|pubmed:15528514
+Aspergillus flavus|BGC0000010|AAS90071.1||1671|aflatoxin|pubmed:15528514, pubmed:27576895
+Aspergillus flavus|BGC0000010|AAS90085.1||1888|aflatoxin|pubmed:15528514, pubmed:27576895
+Aspergillus ochraceoroseus|BGC0000011|ACH72912.1||2199|sterigmatocystin|pubmed:19537208
+Aspergillus ochraceoroseus|BGC0000011|ACH72901.1||1583|sterigmatocystin|pubmed:19537208
+Aspergillus ochraceoroseus|BGC0000011|ACH72900.1||1918|sterigmatocystin|pubmed:19537208
+Alternaria solani|BGC0000012|BAD83684.1|alt5|2551|alternapyrone|pubmed:6436801, pubmed:16356847
+Aspergillus nidulans FGSC A4|BGC0000013|CBF79143.1||1870|alternariol|pubmed:22510154
+Aspergillus nidulans FGSC A4|BGC0000022|EAA65602.1||2793|asperfuranone|pubmed:19199437
+Aspergillus nidulans FGSC A4|BGC0000022|EAA65604.1||2527|asperfuranone|pubmed:19199437
+Monascus pilosus|BGC0000027|AGN71604.1||2689|ankaflavin, monascin, rubropunctatine, monascorubrin|pubmed:23504076
+Monascus pilosus|BGC0000027|AGN71613.1||1845|ankaflavin, monascin, rubropunctatine, monascorubrin|pubmed:23504076
+Monascus pilosus|BGC0000027|AGN71614.1||2014|ankaflavin, monascin, rubropunctatine, monascorubrin|pubmed:23504076
+Fusarium fujikuroi IMI 58289|BGC0000030|CCT67991.1||2036|bikaverin|pubmed:17927749
+Aspergillus nidulans FGSC A4|BGC0000037|CBF69451.1||2517|cichorine|pubmed:22510154, pubmed:24244835, pubmed:22510154
+Penicillium citrinum|BGC0000039|BAC20564.1|mlcA|3032|compactin|pubmed:12172803, pubmed:12242508, pubmed:18667169, pubmed:12436257
+Penicillium citrinum|BGC0000039|BAC20566.1|mlcB|2563|compactin|pubmed:12172803, pubmed:12242508, pubmed:18667169, pubmed:12436257
+Aspergillus terreus|BGC0000045|AGC95321.1|curS2|2083|dehydrocurvularin|pubmed:23335766
+Aspergillus terreus|BGC0000045|AGC95324.1|curS1|2387|dehydrocurvularin|pubmed:23335766
+Alternaria brassicicola|BGC0000046|ACZ57548.1|DEP5|2376|depudecin|pubmed:19737099
+Dothistroma septosporum|BGC0000048|AAZ95017.1|pksA|2399|dothistromin|pubmed:16649078
+Aspergillus nidulans FGSC A4|BGC0000057|EAA59563.1||2103|F9775A, F9775B, orsellinic acid|pubmed:20174687, pubmed:9448638, pubmed:19666480
+Fusarium verticillioides|BGC0000062|AAD43562.2|FUM1|2586|fumonisin B1|pubmed:10413619, pubmed:11728154, pubmed:12423021, pubmed:12620260, pubmed:14602658, pubmed:16536629, pubmed:17483290
+Fusarium verticillioides|BGC0000062|AAN74813.2|FUM10|552|fumonisin B1|pubmed:10413619, pubmed:11728154, pubmed:12423021, pubmed:12620260, pubmed:14602658, pubmed:16536629, pubmed:17483290
+Fusarium verticillioides|BGC0000062|AAN74817.2|FUM14|548|fumonisin B1|pubmed:10413619, pubmed:11728154, pubmed:12423021, pubmed:12620260, pubmed:14602658, pubmed:16536629, pubmed:17483290
+Fusarium verticillioides|BGC0000062|AAN74819.2|FUM16|676|fumonisin B1|pubmed:10413619, pubmed:11728154, pubmed:12423021, pubmed:12620260, pubmed:14602658, pubmed:16536629, pubmed:17483290
+Fusarium oxysporum|BGC0000063|ACB12550.1|fum1|2583|fumonisin|pubmed:18375156
+Fusarium oxysporum|BGC0000063|ACB12556.1|fum10|561|fumonisin|pubmed:18375156
+Fusarium oxysporum|BGC0000063|ACB12559.1|fum14|548|fumonisin|pubmed:18375156
+Fusarium oxysporum|BGC0000063|ACB12561.1|fum16|676|fumonisin|pubmed:18375156
+Fusarium verticillioides|BGC0000064|AAT28740.1|fusA|3733|fusarin|pubmed:15368570
+Penicillium aethiopicum|BGC0000070|ADI24953.1||1790|griseofulvin, epidechlorogriseofulvin, norlichexanthone, dehydrogriseofulvin, 4-desmethylgriseofulvin, griseoxanthone B|pubmed:23978092, pubmed:22942257, pubmed:22191585, pubmed:20534346, pubmed:15985553, pubmed:588267, pubmed:864701, pubmed:4583106
+Hypomyces subiculosus|BGC0000076|ACD39753.1|hpm3|2049|hypothemycin|pubmed:18567690
+Hypomyces subiculosus|BGC0000076|ACD39758.1|hpm8|2349|hypothemycin|pubmed:18567690
+Hypomyces subiculosus|BGC0000077|ACD39762.1|hpm3|2049|hypothemycin|pubmed:18567690
+Hypomyces subiculosus|BGC0000077|ACD39767.1|hpm8|2349|hypothemycin|pubmed:18567690
+Aspergillus terreus|BGC0000088|AAD34559.1|lovF|2532|monacolin K|pubmed:10334994
+Monascus pilosus|BGC0000098|ABA02240.1|mkB|2547|monacolin K|pubmed:18578535, pubmed:28559732, pubmed:28070827, pubmed:19968298, pubmed:19693441
+Monascus pilosus|BGC0000098|ABA02239.1|mkA|3075|monacolin K|pubmed:18578535, pubmed:28559732, pubmed:28070827, pubmed:19968298, pubmed:19693441
+Talaromyces marneffei|BGC0000099|ADH01663.1||2683|monascorubrin|pubmed:25335861
+Penicillium brevicompactum|BGC0000104|ADY00130.1|mpaC|2448|mycophenolic acid|pubmed:21398490, pubmed:4472552
+Aspergillus nidulans FGSC A4|BGC0000107|CBF74114.1|wA|2157|naphthopyrone|pubmed:1465094
+Penicillium expansum|BGC0000120|AIG62146.1|patK|1776|patulin|pubmed:25120234, pubmed:26582186, pubmed:27913847, pubmed:24334092, pubmed:19383676
+Pestalotiopsis fici|BGC0000121|AGO59040.1|ptaA|1746|RES-1214-2|pubmed:24302702
+Aspergillus fumigatus Af293|BGC0000129|EAL89229.1||581|pyripyropene A|pubmed:20861902
+Aspergillus fumigatus Af293|BGC0000129|EAL89230.2||2445|pyripyropene A|pubmed:20861902
+Pochonia chlamydosporia|BGC0000134|ACD39770.1|Rdc1|2090|radicicol|pubmed:18567690
+Pochonia chlamydosporia|BGC0000134|ACD39774.1|Rdc5|2383|radicicol|pubmed:18567690
+Alternaria solani|BGC0000146|BAJ09789.1|sol1|2641|solanapyrone D|pubmed:20486243, pubmed:26342019, pubmed:25372118
+Aspergillus nidulans|BGC0000152|AAC49191.1|stcA|2181|sterigmatocystin|pubmed:8643646, pubmed:7486998
+Aspergillus nidulans|BGC0000152|AAC49198.1|stcJ|1559|sterigmatocystin|pubmed:8643646, pubmed:7486998
+Aspergillus nidulans|BGC0000152|AAC49199.1|stcK|1914|sterigmatocystin|pubmed:8643646, pubmed:7486998
+Talaromyces stipitatus ATCC 10500|BGC0000154|EED18001.1||2661|stipitatic acid|pubmed:22508998, pubmed:23870699, pubmed:24863423
+Aspergillus niger|BGC0000156|AEN83889.1|adaA|1793|TAN-1612, 1-(2,3,5,10-tetrahydroxy-7-methoxy-4-oxo-1,2,3,4-tetrahydroanthracen-2-yl)pentane-2,4-dione, desmethyl TAN-1612|pubmed:21866960, pubmed:7490206, pubmed:7490207
+Aspergillus terreus NIH2624|BGC0000160|EAU32819.1||1803|terreic acid|pubmed:25265334, pubmed:29391515, pubmed:9003280
+Aspergillus terreus NIH2624|BGC0000161|EAU38791.1||2081|isoterrein|pubmed:24816227
+Penicillium aethiopicum|BGC0000168|ADI24926.1||1824|viridicatumtoxin, previridicatumtoxin, 5-hydroxyanthrotainin, 8-O-desmethylanthrotainin|pubmed:20534346, pubmed:22590971, pubmed:24161266, pubmed:19168978, pubmed:23168407, pubmed:23893651, pubmed:25317739
+Penicillium aethiopicum|BGC0000168|ADI24927.1||723|viridicatumtoxin, previridicatumtoxin, 5-hydroxyanthrotainin, 8-O-desmethylanthrotainin|pubmed:20534346, pubmed:22590971, pubmed:24161266, pubmed:19168978, pubmed:23168407, pubmed:23893651, pubmed:25317739
+Aspergillus niger ATCC 1015|BGC0000170|EHA22196.1||1779|yanuthone D|pubmed:24684908
+Aspergillus terreus NIH2624|BGC0000292|EAU36744.1||1507|acetylaranotin|pubmed:23586797
+Aspergillus fischeri NRRL 181|BGC0000293|EAW16180.1||2359|acetylaszonalenin|pubmed:19001367, pubmed:20225828
+Fusarium incarnatum|BGC0000304|ACZ66251.1|aps5|1618|apicidin|pubmed:20233305
+Fusarium incarnatum|BGC0000304|ACZ66258.1|aps1|5143|apicidin|pubmed:20233305
+Aureobasidium pullulans|BGC0000307|ACJ04424.1|aba1|11659|AbT1|pubmed:19084058
+Beauveria bassiana|BGC0000312|ACR78148.1|Bsls|3146|bassianolide|pubmed:19285149
+Beauveria bassiana|BGC0000313|ACI30655.1|Beas|3189|beauvericin|pubmed:18804027
+Acremonium chrysogenum ATCC 11550|BGC0000317|KFH48713.1||642|cephalosporin C|pubmed:25291769, pubmed:23135477
+Acremonium chrysogenum ATCC 11550|BGC0000317|KFH48607.1||3755|cephalosporin C|pubmed:25291769, pubmed:23135477
+Fusarium equiseti|BGC0000342|CAA79245.2|esyn1|3131|enniatin|pubmed:8483420
+Epichloe festucae var. lolii|BGC0000348|ABM91454.1|lpsB|1351|ergovaline|pubmed:17308187
+Aspergillus fumigatus Af293|BGC0000355|EAL89046.1||1160|fumiquinazoline A, fumiquinazoline C, fumiquinazoline D|pubmed:21899262, pubmed:20225828, pubmed:20804163, pubmed:22344643, pubmed:22902615, pubmed:23330675, pubmed:24121553
+Aspergillus fumigatus Af293|BGC0000355|EAL89049.1||3955|fumiquinazoline A, fumiquinazoline C, fumiquinazoline D|pubmed:21899262, pubmed:20225828, pubmed:20804163, pubmed:22344643, pubmed:22902615, pubmed:23330675, pubmed:24121553
+Aspergillus fumigatus|BGC0000356|BAH23995.1|ftmA|2211|verruculogen, fumitremorgin B, fumitremorgin c, tryprostatin A, tryprostatin B, demethoxyfumitremorgin C, brevianamide F|pubmed:8698635, pubmed:16520651, pubmed:9677311, pubmed:18321710, pubmed:17016657, pubmed:16755625, pubmed:18683158, pubmed:19226505, pubmed:19763315, pubmed:23109474, pubmed:23649274, pubmed:24082142
+Penicillium rubens Wisconsin 54-1255|BGC0000357|CAP93139.1|Pc16g04690|6064|cyclo-(D-Phe-L-Phe-D-Val-L-Val), cyclo-(D-Tyr-L-Phe-D-Val-L-Val), cyclo-(D-Tyr-L-Trp-D-Val-L-Val), cyclo-(D-Phe-L-Trp-D-Val-L-Val), cyclo-(D-Phe-L-Phe-D-Val-L-Ile), cyclo-(D-Phe-L-Phe-D-Ile-L-Val), cyclo-(D-Tyr-L-Trp-D-Val-L-Ile), cyclo-(D-Tyr-L-Trp-D-Ile-L-Val), cyclo-(D-Tyr-L-Phe-D-Val-L-Ile), cyclo-(D-Tyr-L-Phe-D-Ile-L-Val)|pubmed:5371403, pubmed:24887561
+Aspergillus fumigatus Af293|BGC0000361|EAL88817.1||2135|gliotoxin, bisdethiobis(methylthio)gliotoxin|pubmed:24847038, pubmed:25126990, pubmed:25311525, pubmed:25062268, pubmed:24039048, pubmed:22936680, pubmed:21749092, pubmed:21513890, pubmed:20548963, pubmed:20593880, pubmed:18199036, pubmed:17601876, pubmed:17154540, pubmed:16956378, pubmed:16757745, pubmed:15979823, pubmed:22094977
+Aspergillus fumigatus Af293|BGC0000372|EAL92291.2||2202|hexadehydroastechrome, terezine-D, astechrome|pubmed:25386169, pubmed:23360537, pubmed:7760082
+Penicillium chrysogenum|BGC0000404|ABA70582.1|pcbAB|3778|penicillin|pubmed:16713314
+Penicillium chrysogenum|BGC0000405|ABR12615.1|pcbAB|3791|δ-(L-α-aminoadipyl)-L-cysteine-D-valine, isopenicillin N, benzylpenicillin, phenoxymethylpenicillin|pubmed:1368505, pubmed:2129535, pubmed:7597101, pubmed:11180058, pubmed:17548217, pubmed:20851974, pubmed:18820685
+Penicillium rubens Wisconsin 54-1255|BGC0000420|CAP96445.1|Pc21g15480|2372|histidyltryptophanyldiketopiperazine, dehydrohistidyltryptophanyldiketopiperazine, roquefortine D, roquefortine C, glandicoline A, glandicoline B, meleagrine|pubmed:23776469, pubmed:24225953, pubmed:22118684, pubmed:25998659, pubmed:26668029, pubmed:26729047
+Aspergillus nidulans FGSC A4|BGC0000442|CBF80711.1||949|terrequinone A|pubmed:16426969, pubmed:17584611, pubmed:17291795, pubmed:18029206, pubmed:17704773
+Aspergillus terreus NIH2624|BGC0000682|EAU29529.1||2417|terretonin|pubmed:23116177, pubmed:25671343, pubmed:22782788
+Aspergillus nidulans FGSC A4|BGC0000684|CBF70387.1||1792|asperthecin|pubmed:18978088
+Malbranchea aurantiaca|BGC0000816|AGA37267.1|malG|2345|malbrancheamide A|pubmed:23213353
+Aspergillus versicolor|BGC0000818|AGC83576.1|notE_|2225|notoamide A|pubmed:23213353
+Penicillium fellutanum|BGC0000819|AGA37269.1|phqB|2449|paraherquamide|pubmed:23213353
+Monascus aurantiacus|BGC0000894|ACA34725.1|ctnI|799|citrinin|pubmed:21956130
+Aspergillus nidulans FGSC A4|BGC0000959|CBF80487.1||3930|aspyridone A|pubmed:17369821, pubmed:20828130, pubmed:25494235
+Penicillium expansum|BGC0000968|CAO91861.1|cheA|4013|chaetoglobosins|pubmed:17636916, pubmed:3611317
+Aspergillus oryzae|BGC0000977|BAK26562.1|cpaA|3907|cyclopiazonic acid|pubmed:21608094
+Aspergillus clavatus NRRL 1|BGC0000983|EAW09117.1||4043|cytochalasin E, cytochalasin K|pubmed:21983160, pubmed:10900214
+Fusarium heterosporum|BGC0000992|AAV66110.2|fsdS|4005|fusaridione A|pubmed:15724180, pubmed:23614392
+Metarhizium anisopliae|BGC0001026|ACS68554.1||3935|NG-391|pubmed:20355253
+Penicillium nordicum|BGC0001030|AUS29494.1||1880|ochratoxin A|pubmed:16156116, pubmed:30054361, pubmed:29324288
+Penicillium nordicum|BGC0001030|AUS29495.1||2538|ochratoxin A|pubmed:16156116, pubmed:30054361, pubmed:29324288
+Glarea lozoyensis ATCC 20868|BGC0001035|EPE34340.1||2531|pneumocandin B0, pneumocandin A0|pubmed:23688303, pubmed:25879325, pubmed:25527531, pubmed:25270390, pubmed:27494047
+Glarea lozoyensis ATCC 20868|BGC0001035|EPE34341.1||7192|pneumocandin B0, pneumocandin A0|pubmed:23688303, pubmed:25879325, pubmed:25527531, pubmed:25270390, pubmed:27494047
+Glarea lozoyensis ATCC 20868|BGC0001035|EPE34349.1||568|pneumocandin B0, pneumocandin A0|pubmed:23688303, pubmed:25879325, pubmed:25527531, pubmed:25270390, pubmed:27494047
+Aspergillus fumigatus Af293|BGC0001037|EAL85113.2||4007|pseurotin, azaspirene|pubmed:25494235, pubmed:24939566, pubmed:24082142, pubmed:19179074, pubmed:17722120, pubmed:18637013
+Leptosphaeria maculans|BGC0001044|AAS92545.1|sirP|2176|sirodesmin PL|pubmed:15387811, pubmed:19762440, pubmed:18023597, pubmed:15707846
+Beauveria bassiana|BGC0001049|CAL69597.1|tens|4239|tenellin|pubmed:21899331, pubmed:21675761, pubmed:20575135, pubmed:19067514, pubmed:17216664, pubmed:18266306
+Fusarium graminearum|BGC0001057|ABB90279.1|NPS|2325|zearalenone|pubmed:16262793, pubmed:16751498, pubmed:19159310, pubmed:21833740, pubmed:26036360
+Fusarium graminearum|BGC0001057|ABB90282.1|PKS13|2036|zearalenone|pubmed:16262793, pubmed:16751498, pubmed:19159310, pubmed:21833740, pubmed:26036360
+Fusarium graminearum|BGC0001057|ABB90283.1|PKS4|2345|zearalenone|pubmed:16262793, pubmed:16751498, pubmed:19159310, pubmed:21833740, pubmed:26036360
+Aspergillus fumigatus Af293|BGC0001067|EAL85129.1||2462|fumagillin, β-trans-bergamotene, fumagillol|pubmed:23488861, pubmed:24568283, pubmed:9177176
+Aspergillus fumigatus Af293|BGC0001067|EAL85117.1||721|fumagillin, β-trans-bergamotene, fumagillol|pubmed:23488861, pubmed:24568283, pubmed:9177176
+Aspergillus sp. MF297-2|BGC0001084|ADM34138.1||2240|notoamide A|pubmed:20722388
+Aspergillus fumigatus Af293|BGC0001118|EAL84397.1||1775|endocrocin|pubmed:22492455, pubmed:23592999
+Aspergillus terreus NIH2624|BGC0001122|EAU38971.1||3890|dihydroisoflavipucine, isoflavipucine|pubmed:21236704
+Aspergillus oryzae RIB40|BGC0001123|BAE56606.1||1625|aspirochlorine|pubmed:25302411
+Aspergillus niger ATCC 1015|BGC0001124|EHA19289.1||2347|pyranonigrin E|pubmed:21543515
+Beauveria bassiana|BGC0001136|ADN43685.1||4176|desmethylbassianin|pubmed:21899331
+Penicillium brefeldianum|BGC0001141|AIA58899.1||2373|4-epi-15-epi-brefeldin A|pubmed:24845309, pubmed:2426273, pubmed:3192548
+Penicillium aethiopicum|BGC0001142|ADY16689.1||1108|tryptoquialanine|pubmed:21299212
+Penicillium aethiopicum|BGC0001142|ADY16697.1||4074|tryptoquialanine|pubmed:21299212
+Aspergillus niger ATCC 1015|BGC0001143|EHA28233.1||531|azanigerone A|pubmed:22921072
+Aspergillus niger ATCC 1015|BGC0001143|EHA28237.1||2599|azanigerone A|pubmed:22921072
+Aspergillus niger ATCC 1015|BGC0001143|EHA28244.1||2533|azanigerone A|pubmed:22921072
+Trichophyton tonsurans CBS 112818|BGC0001144|EGD99348.1||1802|neosartoricin B|pubmed:23758576, pubmed:23368997
+Alternaria jesenskae|BGC0001166|AGQ43600.1|HTS1|5207|HC-toxin|pubmed:23865912
+Chaetomium globosum CBS 148.51|BGC0001182|XP_001220460.1||4699|chaetoglobosins|pubmed:17636916, pubmed:3611317
+Glarea lozoyensis|BGC0001187|AKL78824.1|glpks3|3006|xenolozoyenone|pubmed:26081635
+Glarea lozoyensis|BGC0001187|AKL78825.1|glnrps7|887|xenolozoyenone|pubmed:26081635
+Fusarium verticillioides 7600|BGC0001190|EWG54274.1||1058|fusaric acid|pubmed:25372119
+Fusarium verticillioides 7600|BGC0001190|EWG54266.1||2409|fusaric acid|pubmed:25372119
+Penicillium expansum|BGC0001205|KGO40476.1||481|communesin A, communesin B, communesin C, communesin D, communesin E, communesin G, communesin H|pubmed:25571861, pubmed:26963294
+Penicillium expansum|BGC0001205|KGO40478.1||2363|communesin A, communesin B, communesin C, communesin D, communesin E, communesin G, communesin H|pubmed:25571861, pubmed:26963294
+Cordyceps fumosorosea|BGC0001218|AKC54422.1|fumoS|4138|fumosorinone|pubmed:25857260
+Chaetomium globosum CBS 148.51|BGC0001219|EAQ84779.1||2379|shanorellin|doi:10.1039/C4MD00352G
+Aspergillus japonicus|BGC0001220|BAN91483.1|Acu|7359|aculeacin A|pubmed:25156669, pubmed:29987385
+Fusarium fujikuroi|BGC0001242|CCE67070.1|fsr1|2286|oxyjavanicin|pubmed:22492438
+Parastagonospora nodorum|BGC0001244|AIW00670.1|mlnS|1785|(-)-Mellein|pubmed:25326302
+Lasiodiplodia theobromae|BGC0001245|AHV78245.1|lasS1|2390|lasiodiplodin|pubmed:24597618
+Lasiodiplodia theobromae|BGC0001245|AHV78247.1|lasS2|2083|lasiodiplodin|pubmed:24597618
+Sarocladium zeae|BGC0001246|AHV78252.1|resS1|2400|trans-resorcylide|pubmed:24597618
+Sarocladium zeae|BGC0001246|AHV78253.1|resS2|2211|trans-resorcylide|pubmed:24597618
+Alternaria alternata|BGC0001249|AFN69082.1|NPS6|1776|dimethylcoprogen|pubmed:23438010
+Epichloe festucae|BGC0001250|AET13875.1|sidN|4690|epichloenin A|pubmed:23658520
+Epichloe festucae|BGC0001251|AET13879.1|sidN|4690|epichloenin A|pubmed:23658520
+Alternaria alternata|BGC0001252|BAN19720.1|ACRTS2|2513|UNII-YC2Q1O94PT|pubmed:22835272
+Alternaria alternata|BGC0001254|BAJ14522.1|ACTTS3|2457|ACT-Toxin II|pubmed:20192828
+Fusarium heterosporum|BGC0001255|AGO86662.1|eqxS|3948|equisetin|pubmed:23614392, pubmed:15724180
+Nodulisporium sp. ATCC74245|BGC0001257|AAD38786.1|pks1|2159|1,3,6,8-tetrahydroxynaphthalene|pubmed:10628853
+Glarea lozoyensis|BGC0001258|AAN59953.1|pks1|2124|1,3,6,8-tetrahydroxynaphthalene|pubmed:12589439
+Alternaria alternata|BGC0001261|AAF01762.1|AMT|4360|AM-toxin|pubmed:10875335
+Phoma betae|BGC0001264|BAQ25466.1|bet1|2904|betaenone A, betaenone B, betaenone C|pubmed:25530455
+Bipolaris oryzae|BGC0001265|BAD22832.1|PKS1|2155|melanin|pubmed:15336395, pubmed:18312572, pubmed:14716498, pubmed:14717841
+Cladonia grayi|BGC0001266|ADM79459.1|PKS16|2089|grayanic acid|pubmed:21289108
+Fusarium fujikuroi|BGC0001268|AFP73394.1|fusA|3738|fusarin|pubmed:22865073, pubmed:23932525
+Aspergillus ochraceus|BGC0001273|AAS98200.1||1766|asperlactone|pubmed:19589392
+Glarea lozoyensis|BGC0001275|AAX35547.1|pks2|1791|6-methylsalicyclic acid|pubmed:15800788
+Aspergillus terreus|BGC0001276|BAA20102.2|atX|1803|6-methylsalicyclic acid|pubmed:9003280
+Phoma betae|BGC0001280|BAQ25466.1|bet1|2904|betaenone C, betaenone A|pubmed:25530455
+Ustilago maydis 521|BGC0001281|XP_011392698.1||2121|ustilagic acid|pubmed:21926207, pubmed:20173069, pubmed:17850255, pubmed:15932999
+Ustilago maydis 521|BGC0001281|XP_011392701.1||1971|ustilagic acid|pubmed:21926207, pubmed:20173069, pubmed:17850255, pubmed:15932999
+Ustilago maydis 521|BGC0001281|XP_011392728.1||3704|ustilagic acid|pubmed:21926207, pubmed:20173069, pubmed:17850255, pubmed:15932999
+Parastagonospora nodorum SN15|BGC0001284|AKN45693.1||1763|alternariol|pubmed:26025896
+Aspergillus nidulans FGSC A4|BGC0001290|CBF87069.1||6919|emericellamide A, emericellamide B|pubmed:26184239
+Aspergillus nidulans FGSC A4|BGC0001290|CBF87072.1||2534|emericellamide A, emericellamide B|pubmed:26184239
+Aspergillus nidulans FGSC A4|BGC0001290|CBF87076.1||565|emericellamide A, emericellamide B|pubmed:26184239
+Aspergillus flavus NRRL3357|BGC0001304|EED53479.1||1751|aflavarin|pubmed:26209694
+Fusarium fujikuroi IMI 58289|BGC0001305|CCT72377.1||2492|fujikurin A, fujikurin B, fujikurin C, fujikurin D|pubmed:26192387
+Monascus ruber|BGC0001338|ALI92655.1|citS|2593|citrinin|doi:10.1039/c5sc04027b
+Monascus ruber|BGC0001338|ALI92663.1|mrr8|657|citrinin|doi:10.1039/c5sc04027b
+Phoma sp. MF5453|BGC0001339|AMY15057.1|mfpks1|2605|squalestatin S1|doi:10.1039/c6cc02130a
+Phoma sp. MF5453|BGC0001339|AMY15066.1|mfM9|541|squalestatin S1|doi:10.1039/c6cc02130a
+Phoma sp. MF5453|BGC0001339|AMY15068.1|mfpks2|2561|squalestatin S1|doi:10.1039/c6cc02130a
+Byssochlamys fulva|BGC0001340|ANF07288.1|bfpks1|2618|byssochlamic acid|pubmed:27099957, pubmed:26452099
+Purpureocillium lilacinum|BGC0001358|OAQ83760.1||2507|leucinostatin A, leucinostatin B|pubmed:27416025
+Purpureocillium lilacinum|BGC0001358|OAQ83765.1||2332|leucinostatin A, leucinostatin B|pubmed:27416025
+Purpureocillium lilacinum|BGC0001358|OAQ83766.1||386|leucinostatin A, leucinostatin B|pubmed:27416025
+Purpureocillium lilacinum|BGC0001358|OAQ83772.1||11872|leucinostatin A, leucinostatin B|pubmed:27416025
+Penicillium roqueforti FM164|BGC0001360|CDM36726.1||2477|mycophenolic acid|pubmed:26751579
+Claviceps purpurea 20.1|BGC0001365|CCE28989.1||2049|clapurines|pubmed:27390873
+Aspergillus nidulans NRRL 8112|BGC0001371|AMM63162.1|aniA|7313|echinocandin B|pubmed:27502607
+Aspergillus nidulans NRRL 8112|BGC0001371|AMM63166.1|aniI|559|echinocandin B|pubmed:27502607
+Penicillium thymicola|BGC0001372|ANY57892.1||2797|penigequinolone A|pubmed:25859931
+Sordaria araneosa|BGC0001373|BAV32159.1|sdnO|3084|sordarin|pubmed:27072286
+Stachybotrys bisbyi|BGC0001390|BAV19379.1|stbA|2220|LL-Z1272beta|pubmed:26972702
+Stachybotrys bisbyi|BGC0001390|BAV19380.1|stbB|1057|LL-Z1272beta|pubmed:26972702
+Aspergillus nidulans FGSC A4|BGC0001399|CBF76038.1||1480|fellutamide B|pubmed:27294372
+Aspergillus terreus NIH2624|BGC0001400|EAU29808.1||2438|citreoviridin|pubmed:26954888
+Talaromyces islandicus|BGC0001402|CRG85572.1||5641|cyclochlorotine, hydroxy-cyclochlorotine, cyclotine, cyclochlorotine B, deoxy-Cyclochlorotine|pubmed:26954535
+Aspergillus fumigatus Af293|BGC0001403|EAL89339.1||1782|trypacidin|pubmed:26242966, pubmed:26278536, pubmed:27611015
+Penicillium rubens Wisconsin 54-1255|BGC0001404|CAP95404.1|Pc21g05070|2664|sorbicillin|pubmed:27107123
+Penicillium rubens Wisconsin 54-1255|BGC0001404|CAP95405.1|Pc21g05080|2581|sorbicillin|pubmed:27107123
+Chaetomium globosum CBS 148.51|BGC0001405|EAQ86385.1||2383|chaetoviridin E, 11-epichaetomugilin A|pubmed:23072467, pubmed:23072467
+Chaetomium globosum CBS 148.51|BGC0001405|EAQ86392.1||1184|chaetoviridin E, 11-epichaetomugilin A|pubmed:23072467, pubmed:23072467
+Paecilomyces divaricatus|BGC0001436|ASK38699.1|pvL18|1077|cornexistin|pubmed:28660939
+Paecilomyces divaricatus|BGC0001436|ASK38717.1|pvpks1|2451|cornexistin|pubmed:28660939
+Aspergillus flavus NRRL3357|BGC0001445|EED49862.1||3946|leporin B|pubmed:26051490
+Aspergillus flavus NRRL3357|BGC0001446|EED57518.1||2045|asparasone A|pubmed:24412484, pubmed:24405210
+Thermothelomyces thermophilus|BGC0001449|AEO57481.1||3948|ucs1025a|pubmed:29373009, pubmed:16492566, pubmed:12465894
+Cladonia uncialis subsp. uncialis|BGC0001489|AUW31184.1||2152|6-hydroxymellein|pubmed:27264554
+Penicillium roqueforti|BGC0001508|ART41209.1|adrD|2495|andrastin A|pubmed:28529508
+Aspergillus nidulans FGSC A4|BGC0001515|CBF73431.1||2111|aspercryptins|pubmed:27310134
+Aspergillus nidulans FGSC A4|BGC0001515|CBF73444.1||1659|aspercryptins|pubmed:27310134
+Aspergillus nidulans FGSC A4|BGC0001515|CBF73453.1||7214|aspercryptins|pubmed:27310134
+Aspergillus flavus NRRL3357|BGC0001516|XP_002373813.1||1021|aspergillic acid|pubmed:29674152
+Aspergillus terreus NIH2624|BGC0001517|XP_001217690.1||2307|asperphenamate|pubmed:29719714
+Aspergillus oryzae RIB40|BGC0001518|BAE60013.1||1338|astellolide A|pubmed:27628599, pubmed:26126743
+Gelatoporia subvermispora|BGC0001527|AQX36215.1|NPS2|2464|basidioferrin|pubmed:28842536
+Cercospora beticola|BGC0001541|PIB02405.1||2204|cercosporin|pubmed:29844193
+Cercospora zeina|BGC0001542|ARU80380.1|CTB1|2195|cercosporin|pubmed:28535078
+Aspergillus campestris IBT 28561|BGC0001544|PKY07881.1||2756|chlorflavonin|pubmed:29317534
+Fusarium graminearum PH-1|BGC0001545|XP_011325838.1||2381|chrysogine|pubmed:28708398, pubmed:29196288
+Paecilomyces divaricatus|BGC0001557|ASK38699.1|pvL18|1077|cornexistin|pubmed:28660939
+Paecilomyces divaricatus|BGC0001557|ASK38717.1|pvpks1|2451|cornexistin|pubmed:28660939
+Cochliobolus pallescens|BGC0001563|BAZ95823.1||3871|curvupallide-B|pubmed:28361537
+Beauveria felina|BGC0001565|ATQ39428.1|cycC|15237|cyclosporin C|pubmed:29396588
+Beauveria felina|BGC0001565|ATQ39432.1||2569|cyclosporin C|pubmed:29396588
+Claviceps africana|BGC0001573|ARB50206.1|lpsB|1338|dihydrolysergic acid|pubmed:28476772
+Claviceps africana|BGC0001573|ARB50207.1|lpsA|3590|dihydrolysergic acid|pubmed:28476772
+Talaromyces stipitatus ATCC 10500|BGC0001578|EED21099.1||2157|duclauxin|pubmed:29741874
+Escovopsis weberi|BGC0001583|DAB41653.1|EmoG|1553|emodin|pubmed:29880868
+Escovopsis weberi|BGC0001585|DAB41661.1|EtpP|1951|melinacidin IV|pubmed:29880868
+Fusarium graminearum|BGC0001600|CEF75881.1||1094|fusarielin H|pubmed:27983606
+Fusarium graminearum|BGC0001600|CEF75886.1||2642|fusarielin H|pubmed:27983606
+Fusarium fujikuroi IMI 58289|BGC0001606|CCT75967.1||2543|gibepyrone-A|pubmed:27856636
+Trichoderma virens Gv29-8|BGC0001609|EHK22005.1||2032|gliovirin|doi:10.1002/slct.20170026
+Aspergillus flavus NRRL3357|BGC0001621|XP_002379984.1||2074|imizoquin A, imizoquin B, imizoquin C, imizoquin D, TMC-2A, TMC-2B|pubmed:29182847
+Stachybotrys chlorohalonata IBT 40285|BGC0001626|KFA69336.1||1077|isoindolinone|pubmed:28678182
+Stachybotrys chlorohalonata IBT 40285|BGC0001626|KFA69335.1||2234|isoindolinone|pubmed:28678182
+Curvularia clavata|BGC0001636|BBC83957.1|TRAF135001|13041|KK-1|pubmed:29686660
+Aspergillus nidulans FGSC A4|BGC0001668|CBF82791.1||938|EQ-4|pubmed:22627757
+Penicillium roqueforti|BGC0001677|API82664.1|mpaC|2305|mycophenolic acid|pubmed:27889155
+Aspergillus nidulans FGSC A4|BGC0001679|CBF77087.1|ivoA|1704|N-Acetyltryptophan|pubmed:28108400
+Neurospora crassa OR74A|BGC0001697|EAA36364.1|pks-6|2382|neurosporin A|pubmed:28485098
+Aspergillus nidulans FGSC A4|BGC0001699|CBF87869.1||6077|nidulanin A|pubmed:23248299
+Aspergillus novofumigatus IBT 16806|BGC0001708|PKX88487.1||2255|novofumigatonin|pubmed:29317534
+Aspergillus steynii IBT 23096|BGC0001712|PLB46276.1||954|ochrindole A|pubmed:29317534
+Penicillium simplicissimum|BGC0001717|BBB04327.1|okaA|1981|okaramine B|pubmed:29384650
+Aspergillus aculeatus ATCC 16872|BGC0001718|XP_020057667.1||1997|okaramine D|pubmed:28631282
+Beauveria bassiana ARSEF 2860|BGC0001720|EJP62792.1||2211|oosporein|pubmed:28193896
+Aspergillus nidulans FGSC A4|BGC0001722|CBF83139.1||2193|aspernidine A|pubmed:23248299, pubmed:22510150, pubmed:23706169
+Penicillium oxalicum 114-2|BGC0001724|EPS29069.1||4080|oxaleimide C|pubmed:28365998
+Penicillium brasilianum|BGC0001729|BAV69313.1|prhL|2475|paraherquonin|pubmed:27602587
+Pyrenochaetopsis sp.|BGC0001738|BBC43184.1|phm1|3961|phomasetin|pubmed:29972614
+Phyllosticta cirsii|BGC0001741|ARP51711.1|phyS|4035|phyllostictine A, phyllostictine B|pubmed:28467083
+Pyricularia oryzae 70-15|BGC0001749|EHA52508.1||2571|epipyriculol|pubmed:27902426
+[Nectria] haematococca mpVI 77-13-4|BGC0001768|XP_003044554.1|NhNPS5|5911|sansalvamide|pubmed:26936154
+Chaetothyriaceae sp.|BGC0001793|AQV04224.1|swnK|2500|swainsonine|pubmed:28381497
+Alternaria oxytropis|BGC0001794|AQV04230.1|swnK|2504|swainsonine|pubmed:28381497
+Gliocladium sp.|BGC0001820|AQZ42163.1|verP|1983|verticillin|pubmed:28376389
+Sarocladium sp. 'schorii'|BGC0001827|AWM95789.1|aspks1|2729|xenovulene A|pubmed:29773797
+Trichoderma harzianum|BGC0001854|KKP00963.1||2383|tricholignan A|pubmed:30842286
+Trichoderma harzianum|BGC0001854|KKP00966.1||1730|tricholignan A|pubmed:30842286
+Aspergillus sp. CLMG-2019a|BGC0001857|QBE85649.1||3987|burnettramic acid A|pubmed:30735051
+Parastagonospora nodorum SN15|BGC0001865|XP_001798923.1||1906|elsinochrome C|pubmed:28251756, pubmed:30809363
+Byssochlamys spectabilis|BGC0001866|XP_028481819.1||2193|viriditoxin|pubmed:31045362
+Byssochlamys spectabilis|BGC0001866|XP_028481820.1||2276|viriditoxin|pubmed:31045362
+Aspergillus flavus|BGC0001874|AFA26384.1|cpaA|3906|cyclopiazonic acid|pubmed:22285533, pubmed:19038354
+Pyricularia grisea|BGC0001881|QCS37521.1|pyiS|4065|pyrichalasin H|pubmed:31099577
+Claviceps purpurea 20.1|BGC0001886|CCE31584.1||1808|secalonic acids|pubmed:28955461
+Botrytis cinerea B05.10|BGC0001892|ATZ45182.1|Bcboa6|2460|botcinic acid|pubmed:30848345
+Botrytis cinerea B05.10|BGC0001892|ATZ45185.1|Bcboa9|2330|botcinic acid|pubmed:30848345
+Leptosphaeria maculans JN3|BGC0001899|CBX99534.1||2569|abscisic acid|pubmed:31034868
+Trichoderma harzianum|BGC0001901|KKP00963.1||2383|tricholignan A|pubmed:30842286
+Trichoderma harzianum|BGC0001901|KKP00966.1||1730|tricholignan A|pubmed:30842286
+Strobilurus tenacellus|BGC0001909|ATV82110.1|stpks1|2824|strobilurin|doi:10.1038/s41467-018-06202-
+fungal sp. ATCC 74256|BGC0001913|BBG28498.1|phiA|2572|phomoidride|pubmed:26558485, doi:10.1021/acs.orglett.5b0293
+Acremonium egyptiacum|BGC0001923|BBF25314.1|ascB|1093|ascochlorin|pubmed:30952781
+Acremonium egyptiacum|BGC0001923|BBF25315.1|ascC|2115|ascochlorin|pubmed:30952781
+Talaromyces verruculosus|BGC0001926|BBG28484.1|cdmE|2592|chrodrimanin B|doi:10.1021/acs.orglett.8b0326
+Talaromyces wortmannii|BGC0001954|QBC19710.1||2979|wortmanamide A, wortmanamide B|pubmed:29343058
+Phoma sp.|BGC0001966|QCC62990.1||573|BII-rafflesfungin|pubmed:31088369
+Phoma sp.|BGC0001966|QCC62999.1||10662|BII-rafflesfungin|pubmed:31088369
+Phoma sp.|BGC0001966|QCC63000.1||2622|BII-rafflesfungin|pubmed:31088369
+Phoma sp.|BGC0001976|QCO93110.1|eupA|2682|eupenifeldin|pubmed:30980906
+Phoma sp.|BGC0001977|QCO93110.1|eupA|2682|eupenifeldin|pubmed:30980906
+Aspergillus sp. CLMG-2019a|BGC0001978|QBE85649.1||3987|burnettramic acid|pubmed:30735051
+Pyricularia grisea|BGC0001982|QCS37521.1|pyiS|4065|pyrichalasin H|pubmed:31099577
+Aspergillus novofumigatus IBT 16806|BGC0001988|PKX92308.1||1792|neosartorin|pubmed:30394754
+Aspergillus oryzae RIB40|BGC0001996|XP_001827206.1||1777|oryzine A, oryzine B|pubmed:30104550
+Aspergillus oryzae RIB40|BGC0001996|XP_001827193.1||2026|oryzine A, oryzine B|pubmed:30104550
+Aspergillus nidulans FGSC A4|BGC0001998|XP_659388.1||2510|aspernidgulene A1, aspernidgulene A2, aspernidgulene B1|pubmed:30302871
+Byssochlamys spectabilis|BGC0002030|RWQ92174.1||2193|viriditoxin|pubmed:31304040
+Byssochlamys spectabilis|BGC0002030|RWQ92175.1||2276|viriditoxin|pubmed:31304040
